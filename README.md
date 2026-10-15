@@ -1,14 +1,10 @@
 # Assessing Tick-Borne Pathogen Transmission Risk in Pennsylvania Using Machine Learning and Geospatial Analysis
 
-Penn State Harrisburg, School of Science, Engineering, and Technology (Jan 2026 – May 2026)
-
-**Authors:** Angelina Santhosh, Pranav Balachander, Dr. Sayed Mohsin Reza, Dr. James Mutunga
-
-This project benchmarks four machine learning models on statewide Pennsylvania tick surveillance data (2008–2025) to predict pathogen presence, and uses county-level geospatial analysis to identify pathogen hotspots that are not explained by sampling effort alone.
+This project benchmarks four machine learning models on statewide Pennsylvania tick surveillance data (2008–2025) to predict pathogen presence, and uses county-level geospatial analysis to identify pathogen hotspots that are not explained by sampling effort alone. Done under the guidance of Dr. Sayed Mohsin Reza and Dr. James Mutunga. 
 
 ![Poster](docs/poster.png)
 
-A full-size PDF of the poster is in [`docs/poster.pdf`](docs/poster.pdf). A less formal writeup is available on my blog: [link](<your-blog-post-url>).
+A full-size PDF of the poster is in [`docs/poster.pdf`](docs/poster.pdf).
 
 ## Research questions
 
